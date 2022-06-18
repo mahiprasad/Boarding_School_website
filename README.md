@@ -2,7 +2,9 @@
 SEPM project for 4th semester.
 <br>
 <br>
-
+<a href="https://mahiprasad.github.io/boardingSchool_website/" target="_blank"> <h2>Visit the website.</h2> </a>
+<br>
+<br>
 <table>
 <tr align="center">
 <th>Members</th>
